@@ -1,4 +1,4 @@
-# Restaurant Page
+# Odin Recipes
 
 ## About
 
